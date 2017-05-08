@@ -1,5 +1,5 @@
 # Getting-Cleaning-Data-Course-Project
-## This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following
+### This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following
 * Gets the data required for the analysis
 * Reads the data into R
 * Merges the two data sets of interest
@@ -7,4 +7,4 @@
 * Adds descriptive names to the activities
 * Labels the rest of the data variables
 * Creates a new, independent, tidy data set with averages
-The resulting tidy data set will be in tidydata.txt
+###The resulting tidy data set will be in tidydata.txt
